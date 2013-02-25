@@ -1,0 +1,4 @@
+set solib-search-path ./obj/local/armeabi
+directory /Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/platforms/android-8/arch-arm/usr/include /Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/sources/crystax /Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/sources/crystax/include /Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/sources/objc/gnu-libobjc /Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/sources/cxx-stl/gnu-libstdc++ jni/../jni jni/../jni/CoreFoundation jni/../jni/CoreFoundation/CoreFoundation /Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/sources/objc/gnu-libobjc/include/4.6.3
+file ./obj/local/armeabi/app_process
+target remote :5039

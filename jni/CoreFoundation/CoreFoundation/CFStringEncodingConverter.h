@@ -1,0 +1,1 @@
+../StringEncodings.subproj/CFStringEncodingConverter.h

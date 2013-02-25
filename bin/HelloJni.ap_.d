@@ -1,0 +1,19 @@
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/bin/HelloJni.ap_ \
+ : /Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/res/drawable-hdpi/icon.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/res/drawable-hdpi/labs_logo.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/res/drawable-ldpi/icon.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/res/drawable-ldpi/labs_logo.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/res/drawable-mdpi/icon.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/res/drawable-mdpi/labs_logo.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/res/drawable-xhdpi/icon.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/res/drawable-xhdpi/labs_logo.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/res/values/strings.xml \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/bin/res/drawable-hdpi/icon.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/bin/res/drawable-hdpi/labs_logo.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/bin/res/drawable-ldpi/icon.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/bin/res/drawable-ldpi/labs_logo.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/bin/res/drawable-mdpi/icon.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/bin/res/drawable-mdpi/labs_logo.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/bin/res/drawable-xhdpi/icon.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/bin/res/drawable-xhdpi/labs_logo.png \
+/Users/Ari/dev/Android-ObjC/android-ndk-r7-crystax-5.beta3/samples/hello-jni/bin/AndroidManifest.xml \
